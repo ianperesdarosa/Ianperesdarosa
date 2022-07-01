@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="50" src="https://monophy.com/media/UoYbCNTeDrvlLqGkcK/monophy.gif"  />
+  <img height="150" src="https://monophy.com/media/UoYbCNTeDrvlLqGkcK/monophy.gif"  />
 </div>
 
 ###
